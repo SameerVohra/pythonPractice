@@ -1,0 +1,1 @@
+print("Sameer".find('ae'))
